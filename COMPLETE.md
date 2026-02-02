@@ -925,10 +925,11 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-**Made with ❤️ for the Citizens of India**
+**Made By Team Kartik Chilkoti for the Citizens of India**
 
-[🌐 Website](/) • [📧 Contact](mailto:support@suvidha.gov.in) • [🐦 Twitter](/)
+[🌐 Website](/) • [📧 Contact](mailto:chilkotikartik@gmail.com) • [🐦 Twitter](/)
 
 © 2026 SUVIDHA - Government of India Initiative
 
 </div>
+
