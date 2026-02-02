@@ -181,21 +181,15 @@ The project is deployed on multiple platforms for maximum uptime:
 - **Backup**: Vercel (https://suvidha-hub.vercel.app)
 - **Database**: Supabase Cloud (99.9% uptime SLA)
 
-## 🏆 Awards & Recognition
-
-- 🥇 **Smart Cities Challenge 2026** - First Place
-- 🏅 **Digital India Innovation Award** - Winner
-- 📈 **87% User Satisfaction Rate** - Highest in category
-- 🎯 **2000+ Active Users** - Within first month
 
 ## 👥 Team & Credits
 
-**Lead Developer**: [Your Name]
+**Lead Developer**: [Kartik And Team ]
 **UI/UX Design**: Modern government design standards
 **AI Integration**: OpenAI GPT-4 powered responses
 **Database Design**: Optimized for government scale operations
 
-## 📞 Support & Contact
+## 📞 Support & Contact ## Demo Only 
 
 - **Demo Support**: demo@suvidha.gov.in
 - **Technical Issues**: tech@suvidha.gov.in
@@ -232,14 +226,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## Thank You 
